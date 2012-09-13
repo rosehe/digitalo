@@ -1,0 +1,2 @@
+#N canvas 500 150 450 300 10;
+#X obj 93 40 arduino 1;
