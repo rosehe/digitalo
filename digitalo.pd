@@ -1,2 +1,4 @@
 #N canvas 500 150 450 300 10;
 #X obj 93 40 arduino 1;
+#X obj 200 59 send \$0-arduino;
+#X obj 102 164 receive \$0-arduino;
